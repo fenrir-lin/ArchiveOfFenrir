@@ -9,12 +9,12 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Archive of Fenrir
-author : Fenrir Lin
+author :
   name : Fenrir Lin
   email : linzifan97@gmail.com
   github : fenrir-lin
-  twitter :
-  feedburner :
+  twitter : nil
+  feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://fenrir-lin.github.io/ArchiveOfFenrir/
