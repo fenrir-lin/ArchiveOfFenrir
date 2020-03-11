@@ -1,5 +1,5 @@
 ## Archive of Fenrir
 
-This is a personal archive for fan fictions created by me.
+这是一个基于Github pages与jekyll的个人同人作品归档网站。
 
-Enter the webpage here: [ArchiveOfFenrir](https://fenrir-lin.github.io/ArchiveOfFenrir/)
+点此进入网站：[ArchiveOfFenrir](https://fenrir-lin.github.io/ArchiveOfFenrir/)
