@@ -18,32 +18,32 @@ description: Fenrir个人创作归档网页
 
 ## 《吹响！上低音号》《利兹与青鸟》相关作品
 
-[久丽 | Atacama & Sumida-gawa](pages/Kumirei_Atacama.md)
+【久丽】 [Atacama & Sumida-gawa](pages/Kumirei_Atacama.md)
 
-[久丽 | 第一季第八话不完全复刻](pages/Kumirei_eps8.md)
+【久丽】 [第一季第八话不完全复刻](pages/Kumirei_eps8.md)
 
-[希霙 | drizzle,adagio,kiss](pages/Nozomizo_DAK.md)
+【希霙】 [drizzle,adagio,kiss](pages/Nozomizo_DAK.md)
 
-[希霙 | Fantasme Érotique](pages/Nozomizo_fantasy.md)
+【希霙】 [Fantasme Érotique](pages/Nozomizo_fantasy.md)
 
-[希霙 | Polovtsian Dances](pages/Nozomizo_Polovtsian_Dances.md)
+【希霙】 [Polovtsian Dances](pages/Nozomizo_Polovtsian_Dances.md)
 
-[希霙 | 二重月蚀](pages/Nozomizo_eclipse.md)
+【希霙】 [二重月蚀](pages/Nozomizo_eclipse.md)
 
-[希霙 | 我唯一的太阳](pages/Nozomizo_valentine.md)
+【希霙】 [我唯一的太阳](pages/Nozomizo_valentine.md)
 
-[希霙 | 青鸟折翼之夜](pages/Nozomizo_holy_night.md)
+【希霙】 [青鸟折翼之夜](pages/Nozomizo_holy_night.md)
 
-[夏霙 | 抹茶冰淇淋与新出炉的海绵蛋糕](pages/Natsumizo_matcha.md)
+【夏霙】 [抹茶冰淇淋与新出炉的海绵蛋糕](pages/Natsumizo_matcha.md)
 
-[夏纪 | 与夏纪前辈约会的注意事项](pages/Natsuki_date.md)
+【夏纪】 [与夏纪前辈约会的注意事项](pages/Natsuki_date.md)
 
 
 ## Fate系列相关作品
 
-[阿蒂拉×扎比子 | 神之鞭与不灭星光](pages/Altera_Hakuno.md)
+【阿蒂拉×扎比子】 [神之鞭与不灭星光](pages/Altera_Hakuno.md)
 
-[阿蒂拉×尼禄 | 残阳](pages/Altera_Nero.md)
+【阿蒂拉×尼禄】 [残阳](pages/Altera_Nero.md)
 
-[冲信 | 白色沙原上的新月之夜以敦盛作结](pages/Okinobu_new_moon.md)
+【冲信】 [白色沙原上的新月之夜以敦盛作结](pages/Okinobu_new_moon.md)
 
