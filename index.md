@@ -9,14 +9,14 @@ description: Fenrir个人创作归档网页
 
 也可访问我的：
 
-*[LOFTER主页](https://linguazi.lofter.com/)
+-[LOFTER主页](https://linguazi.lofter.com/)
 
-*[AO3主页](https://archiveofourown.org/users/photon_ray/profile)
+-[AO3主页](https://archiveofourown.org/users/photon_ray/profile)
 
 
 请注意，下列作品部分含有成人内容。本站不含任何额外预警，一切后果敬请自行承担。
 
-##《吹响！上低音号》《利兹与青鸟》相关作品
+## 《吹响！上低音号》《利兹与青鸟》相关作品
 
 [久丽 | Atacama & Sumida-gawa](pages/Kumirei_Atacama.md)
 
